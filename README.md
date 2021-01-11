@@ -9,4 +9,4 @@ This file will include a list of students and teachers.
 
 ## Students:
 
-- [Julian Feregotti](https://github.com/julianfere)
+- [Damian Grimberg](https://github.com/snappler)
